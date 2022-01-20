@@ -17,6 +17,7 @@ Ball that changes color when it bounces on either of the paddles.
 Score counter for both players.
 User-generated amount of rounds to play.
 Message in center of screen with final results after all rounds have been played:
+        
         Player 1 wins
         Player 2 wins
         It's a draw
